@@ -1,0 +1,8 @@
+section .nav-tabs .nav-link {
+    color: var(--bs-white) !important;
+}
+
+img.icon {
+    width: 1.5em;
+    height: 1.5em;
+}
